@@ -141,7 +141,7 @@ The **Content Idea Generator** is a Streamlit-based application that fetches pos
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://choosealicense.com/licenses/mit/) file for details.
 
 ## Acknowledgements
 - [PRAW Documentation](https://praw.readthedocs.io/en/latest/)

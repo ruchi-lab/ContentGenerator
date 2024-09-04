@@ -241,5 +241,5 @@ def main():
         
         st.success("Content ideas generated successfully!")
 
-if __name__ == "_main_":
+if __name__ == "__main__":
     main()

@@ -1,4 +1,5 @@
 # Content Idea Generator
+LLM-based Assistant to generate content ideas for Social media
 
 ## Overview
 The **Content Idea Generator** is a Streamlit-based application that fetches posts from Reddit, analyzes their sentiment using the VADER sentiment analysis model, and generates content ideas based on trending topics. It uses MongoDB to store and manage data, and integrates with OpenAI's API to generate creative content ideas.
